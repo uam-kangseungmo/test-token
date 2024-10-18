@@ -1,0 +1,145 @@
+{
+  "global": {
+    "Black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "White": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Yellow": {
+      "100": {
+        "value": "#fcffcc",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f8ff99",
+        "type": "color"
+      },
+      "300": {
+        "value": "#f5ff66",
+        "type": "color"
+      },
+      "400": {
+        "value": "#f1ff33",
+        "type": "color"
+      },
+      "500": {
+        "value": "#eeff00",
+        "type": "color"
+      },
+      "600": {
+        "value": "#becc00",
+        "type": "color"
+      },
+      "700": {
+        "value": "#8f9900",
+        "type": "color"
+      },
+      "800": {
+        "value": "#5f6600",
+        "type": "color"
+      },
+      "900": {
+        "value": "#303300",
+        "type": "color"
+      }
+    },
+    "Blue": {
+      "100": {
+        "value": "#cdfaff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#9bf5ff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#69f0ff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#36ebff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#04e6ff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#03b8cc",
+        "type": "color"
+      },
+      "700": {
+        "value": "#038a99",
+        "type": "color"
+      },
+      "800": {
+        "value": "#025c66",
+        "type": "color"
+      },
+      "900": {
+        "value": "#012e33",
+        "type": "color"
+      }
+    },
+    "baseSpace": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "space-1": {
+      "value": "{baseSpace} * 1",
+      "type": "spacing"
+    },
+    "space-2": {
+      "value": "{baseSpace} * 2",
+      "type": "spacing"
+    },
+    "space-3": {
+      "value": "{baseSpace} * 3",
+      "type": "spacing"
+    },
+    "space-4": {
+      "value": "{baseSpace} * 4",
+      "type": "spacing"
+    },
+    "space-5": {
+      "value": "{baseSpace} * 5",
+      "type": "spacing"
+    },
+    "space-6": {
+      "value": "{baseSpace} *6",
+      "type": "spacing"
+    },
+    "radius-m": {
+      "value": "{baseSpace} * 1",
+      "type": "borderRadius"
+    },
+    "radius-L": {
+      "value": "{baseSpace} * 2",
+      "type": "borderRadius"
+    },
+    "radius-XL": {
+      "value": "{baseSpace} * 3",
+      "type": "borderRadius"
+    }
+  },
+  "light": {
+    "Primary": {
+      "value": "{Yellow.500}",
+      "type": "color"
+    },
+    "Accent": {
+      "value": "{Blue.500}",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "light"
+    ]
+  }
+}
