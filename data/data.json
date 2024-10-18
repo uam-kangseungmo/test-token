@@ -127,7 +127,7 @@
   },
   "light": {
     "Primary": {
-      "value": "{Yellow.500}",
+      "value": "{Yellow.200}",
       "type": "color"
     },
     "Accent": {
